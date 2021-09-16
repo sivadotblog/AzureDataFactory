@@ -1,0 +1,9 @@
+{
+	"name": "SivasDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae1c3726-5eee-421b-9286-8719a01c5c94",
+		"tenantId": "1822d5c2-7b3b-490e-aa2d-c5db70c364f5"
+	}
+}
